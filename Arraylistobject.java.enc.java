@@ -53,9 +53,9 @@ public class Arraylistobject {
 	 }
 		 public static void main(String[] args) {
 		ArrayList<arraylistobject>isi=new ArrayList<arraylistobject>();
-		isi.add(new arraylistobject("muhanmar","20217366","informatika E","tinambug"));
-		isi.add(new arraylistobject("amin","12345678","informatika E","tubu"));
-		isi.add(new arraylistobject("alhamdulillah","23456789","informatika E","sembarang"));
+		isi.add(new arraylistobject("indra","20217399","informatika d","sembarang"));
+		isi.add(new arraylistobject("budi","123666666","informatika d","sembarang"));
+		isi.add(new arraylistobject("arman","23457777","informatika d","sembarang"));
 		   for(arraylistobject str: isi){
 				System.out.println(str);
 
